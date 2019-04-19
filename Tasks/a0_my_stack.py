@@ -3,7 +3,6 @@ My little Stack
 """
 stack = []
 
-
 def push(elem) -> None:
 	"""
 	Operation that add element to stack
@@ -53,4 +52,16 @@ if __name__ == '__main__':
 	print(stack)
 	print(pop())
 	print(peek(0))
+
+
+
+
+
+
+
+
+
+
+
+
 
